@@ -7,3 +7,5 @@ Create remote repository
 Create local repository with html files, push to remote
 Pull remote files for readme, make edits, push back to remote
 Edit folders and push to remote
+
+Adding some information to test how to merge this in
